@@ -6,4 +6,4 @@ COPY . /code
 
 WORKDIR /code
 
-RUN pip3 install -r /app/requirements.txt
+RUN pip3 install -r /code/requirements.txt
