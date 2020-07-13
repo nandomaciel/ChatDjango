@@ -10,13 +10,14 @@ channels-redis==3.0.0
 constantly==15.1.0
 cryptography==2.9.2
 daphne==2.5.0
-Django==2.2.9
+Django==2.2.13
 gunicorn==20.0.4
 hiredis==1.0.1
 hyperlink==19.0.0
 idna==2.10
 incremental==17.5.0
 msgpack==1.0.0
+pkg-resources==0.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
